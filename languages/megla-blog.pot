@@ -1,0 +1,81 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Megla Blog\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-07 01:51+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: megla-blog"
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:44
+msgid ", "
+msgstr ""
+
+#. Author of the theme
+msgid "ashathemes"
+msgstr ""
+
+#: header.php:69
+msgid "Close Menu"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:64
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://ashathemes.com"
+msgstr ""
+
+#. URI of the theme
+msgid ""
+"https://ashathemes.com/index.php/product/megla-blog-personal-blog-wordpress-"
+"theme/"
+msgstr ""
+
+#: footer.php:18
+msgid "https://wordpress.org/"
+msgstr ""
+
+#. Name of the theme
+msgid "Megla Blog"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Megla Blog Theme is wordpress blog theme for personal use. Fully responsive "
+"design displays beautifully across desktop, mobile, and all devices. Easy "
+"installation allows you to start post blogs immediately after the activation."
+msgstr ""
+
+#: template-parts/content.php:77
+msgid "Pages:"
+msgstr ""
+
+#. %s: CMS name, i.e. WordPress.
+#: footer.php:21
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: header.php:31
+msgid "Skip to content"
+msgstr ""
+
+#. 1: Theme name, 2: Theme author.
+#: footer.php:27
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
